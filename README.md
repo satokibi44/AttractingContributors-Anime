@@ -4,6 +4,7 @@
 3. The Pussycat Dolls - Buttons (Official Music Video) ft. Snoop Dogg
 4. Ta ley see dum - Lula
 5. It's a Sin - Pet Shop Boys
+6. Wake Me Up - Avicii
 
 
 ------------------------------------------
@@ -28,5 +29,4 @@ To complete the assignment, please do the following:
 https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
 
