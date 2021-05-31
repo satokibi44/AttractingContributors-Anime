@@ -21,4 +21,6 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Hobby
-1. Doraemon
+1. Made in Abyss
+2. Tokyo Revengers
+3. Doraemon
