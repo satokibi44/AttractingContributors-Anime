@@ -1,6 +1,10 @@
 # Attracting Contributors
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
+# StudentID
+
+2111091
+
 # Rules
 
 1. Please choose a hobby or some interest that you want to build your repository
