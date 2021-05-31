@@ -1,5 +1,6 @@
 # List of Favorite songs
 Where is the love - The Black Eyed Peas
+The Pussycat Dolls - Buttons (Official Music Video) ft. Snoop Dogg
 
 ------------------------------------------
 # Attracting Contributors
