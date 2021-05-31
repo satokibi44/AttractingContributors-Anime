@@ -1,9 +1,9 @@
 # List of Favorite songs
-1.Where is the love - The Black Eyed Peas
-2.Love Story - Taylor Swift
-3.The Pussycat Dolls - Buttons (Official Music Video) ft. Snoop Dogg
-4.Ta ley see dum
-5.It's a Sin - Pet Shop Boys
+1. Where is the love - The Black Eyed Peas
+2. Love Story - Taylor Swift
+3. The Pussycat Dolls - Buttons (Official Music Video) ft. Snoop Dogg
+4. Ta ley see dum
+5. It's a Sin - Pet Shop Boys
 
 
 ------------------------------------------
