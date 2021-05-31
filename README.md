@@ -26,3 +26,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 3. Doraemon
 4. STEINS;GATE
 5. JUJUTSU KAISEN
+6. Humanity Has Declined
