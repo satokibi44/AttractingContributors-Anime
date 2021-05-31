@@ -5,6 +5,8 @@
 4. Ta ley see dum - Lula
 5. It's a Sin - Pet Shop Boys
 6. Everybody Jam - Scatman John 
+7. Wake Me Up - Avicii
+
 
 ------------------------------------------
 # Attracting Contributors
@@ -28,5 +30,4 @@ To complete the assignment, please do the following:
 https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
 
