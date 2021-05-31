@@ -25,3 +25,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 2. Tokyo Revengers
 3. Doraemon
 4. STEINS;GATE
+5. JUJUTSU KAISEN
