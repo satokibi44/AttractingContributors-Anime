@@ -20,8 +20,12 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Apps
-- Twitter
-- ウマ娘 プリティーダービー
-- Hacka Doll
-- YouTube
+# List of Hobby
+1. Made in Abyss
+2. Tokyo Revengers
+3. Doraemon
+4. STEINS;GATE
+5. JUJUTSU KAISEN
+6. One Piece
+7. Humanity Has Declined
+8. Dr. Stone
