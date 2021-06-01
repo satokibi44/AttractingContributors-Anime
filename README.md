@@ -28,4 +28,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 5. JUJUTSU KAISEN
 6. One Piece
 7. Humanity Has Declined
-8. The Prince of Tennnis
+8. Dr. Stone
+9. Gintama
+10. Maid sama
+11. The Prince of Tennnis
