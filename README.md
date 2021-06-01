@@ -7,7 +7,7 @@
 6. Everybody Jam - Scatman John 
 7. Wake Me Up - Avicii
 8. The Phoenix - Fall Out Boy
-
+9. All the Stars - Kendrick Lamar, SZA
 
 ------------------------------------------
 # Attracting Contributors
