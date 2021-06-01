@@ -30,3 +30,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 7. Humanity Has Declined
 8. Dr. Stone
 9. Gintama
+10. Maid sama
