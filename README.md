@@ -8,6 +8,7 @@
 7. Wake Me Up - Avicii
 8. The Phoenix - Fall Out Boy
 9. All the Stars - Kendrick Lamar, SZA
+10. Odo - Ado
 
 ------------------------------------------
 # Attracting Contributors
