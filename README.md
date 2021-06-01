@@ -6,7 +6,8 @@
 5. It's a Sin - Pet Shop Boys
 6. Everybody Jam - Scatman John 
 7. Wake Me Up - Avicii
-8. All the Stars - Kendrick Lamar, SZA
+8. The Phoenix - Fall Out Boy
+9. All the Stars - Kendrick Lamar, SZA
 
 ------------------------------------------
 # Attracting Contributors
