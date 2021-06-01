@@ -29,3 +29,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 6. One Piece
 7. Humanity Has Declined
 8. Dr. Stone
+9. Gintama
