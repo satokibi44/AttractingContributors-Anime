@@ -1,18 +1,3 @@
-# List of Favorite songs
-1. Where is the love - The Black Eyed Peas
-2. Love Story - Taylor Swift
-3. The Pussycat Dolls - Buttons (Official Music Video) ft. Snoop Dogg
-4. Ta ley see dum - Lula
-5. It's a Sin - Pet Shop Boys
-6. Everybody Jam - Scatman John 
-7. Wake Me Up - Avicii
-8. The Phoenix - Fall Out Boy
-9. All the Stars - Kendrick Lamar, SZA
-10. Odo - Ado
-11. alone - marshmello
-12. paparazzi - Lady Gaga
-
-------------------------------------------
 # Attracting Contributors
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
@@ -35,3 +20,17 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
+# List of Hobby
+1. Made in Abyss
+2. Tokyo Revengers
+3. Doraemon
+4. STEINS;GATE
+5. JUJUTSU KAISEN
+6. One Piece
+7. Humanity Has Declined
+8. Dr. Stone
+9. Gintama
+10. Maid sama
+11. The Prince of Tennnis
+12. Initial D
+13. Castle in the Sky
