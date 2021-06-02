@@ -1,6 +1,16 @@
-# What is this?
-As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
-I want to know which programming languege is popular in NAIST, so please tell me it freely using Pull Request :)
+# AttractingContributors-color
+please help me to add your favorite color to list
 
-# List of programming language
-- JSF*ck
+List of color
+1. red
+2. orange
+3. purple
+4. blue
+5. red
+6. orange
+7. purple
+8. blue
+9. pink
+10. Midnight Black
+11. mazenta
+12. gold
